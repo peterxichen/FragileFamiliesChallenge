@@ -9,9 +9,9 @@ Deployment
 ----------------------------------------------
 This directory comprises the following files
 
--MissingDataScript.py: performs missing data imputation
+- MissingDataScript.py: performs missing data imputation
 
--regress.py: runs OLS with ridge and lasso regularization for predicting continuous variables (GPA, grit, material hardship) and logistic regression for classifying binary vairables (eviction, layoff, job training).
+- regress.py: runs OLS with ridge and lasso regularization for predicting continuous variables (GPA, grit, material hardship) and logistic regression for classifying binary vairables (eviction, layoff, job training).
 
 Authors
 ----------------------------------------------
